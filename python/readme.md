@@ -14,11 +14,10 @@
    
    b. In [assignment 2](https://github.com/Tamzid12/Data_Analytics_2/blob/main/python/Unit3_Python_Advanced_Pandas_DataWrangling_Assignment.ipynb), I did data analysis using salaries dataset. I calculated mean, median, and I did basic data transformations on the dataset, such as rename and subset columns. I visualized the dataset by making scatter plots and histograms. Lastly, I draw conclusions based on the plots. 
    
-   c. The project for this unit is on the hot topic of the year, COVID 19. The codes for the first 4 tasks were set up clearly. After carefully reading all the codes and statements, I did some analysis on the states that have high death case. I answered the following questions:
+   c. The project for this unit is one of the hot topics of the year, COVID-19. The codes for the first 4 tasks were set up clearly. After carefully reading all the codes and statements, I did some analysis on the states that have high death case. I answered the following questions:
    
       - Which five states have the highest number of death?
       - Analysis of COVID 19 in the 5 states since December 22nd. 
-      - A different approach to calculating new cases. 
       - [Link to the project file](https://github.com/Tamzid12/Data_Analytics_2/blob/main/python/Unit3_Mini_Project_Covid19.pptx)
 3. In **Unit 4**, we learned about Machine Learning. More specifically, we learned various ML methods such as *linear regression*, *logistic regression*, *K-Nearest Neighbors*, *decision trees*, and *random forest*.
    
