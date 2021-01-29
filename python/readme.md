@@ -4,7 +4,7 @@
 
    a. [Link to the assignment file](https://github.com/Tamzid12/Data_Analytics_2/tree/main/python)
    
-   b. We have two mini projects for this unit.
+   b. We have one mini projects for this unit.
       - Check if the input is odd or even, if it is multiple of 4. More generally, define a function that takes in two numbers and check whether the first number is divisible by the second. 
       - [Link to the project file](https://github.com/Tamzid12/Data_Analytics_2/blob/main/python/Unit2_Mini_Project.ipynb)
       
