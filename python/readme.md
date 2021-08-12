@@ -23,8 +23,7 @@
    
    a. We worked on two examples on using logistic regression. We learned about the confusion matrix, the difference between recall, precision, and accuracy, what is ROC-curve, and how to interpret it.    
    
-      - [Predict survival with Titanic dataset]
- (https://github.com/Tamzid12/Data_Analytics_2/blob/main/python/Unit_4_ML_Logistic_Regression.ipynb)
+      - [Predict survival with Titanic dataset](https://github.com/Tamzid12/Data_Analytics_2/blob/main/python/Unit_4_ML_Logistic_Regression.ipynb)
       - [Predict ad clicking behavior with advertising dataset](https://github.com/Tamzid12/Data_Analytics_2/blob/main/python/Machine_Learning_Logistic_Regression_Guided_Project.ipynb)
       
    b. We use `Classified` dataset to examine KNN method. We learned about how to standardize data, how different K-values change predictions, and how to pick the right K-value.
